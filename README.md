@@ -10,7 +10,7 @@ Tools used: MySQL Workbench
 
 **Testing section**
 
-## 1.1 Test Planning
+### 1.1 Test Planning
 
 ## 1.2 Test Monitoring and Control
 
