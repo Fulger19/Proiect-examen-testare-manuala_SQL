@@ -49,13 +49,23 @@ The entry criterias defined in the Test Planning phase have been achieved and th
 
 ### 1.2 Test Monitoring and Control
 
+It will be done by generating periodic reports that reflect the current status of the test.
+
 ### 1.3 Test Analysis
+
+The testing process will be executed based on the above requirements for the database with the students.
 
 ### 1.4 Test Design
 
+
+
 ### 1.5 Test Implementation
 
+
+
 ### 1.6 Test Execution
+
+
 
 ### 1.7 Test Completion
 
