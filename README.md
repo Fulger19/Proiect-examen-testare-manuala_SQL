@@ -5,4 +5,4 @@ The scope of the final project for ITF Manual Testing Course is to use all gaine
 Under test: a database for the students in the 8th grade
 Tools used: MySQL Workbench
 
-# Functional specifications
+**Functional specifications**
