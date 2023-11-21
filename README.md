@@ -12,16 +12,16 @@ Tools used: MySQL Workbench
 
 ### 1.1 Test Planning
 
-## 1.2 Test Monitoring and Control
+### 1.2 Test Monitoring and Control
 
-## 1.3 Test Analysis
+### 1.3 Test Analysis
 
-## 1.4 Test Design
+### 1.4 Test Design
 
-## 1.5 Test Implementation
+### 1.5 Test Implementation
 
-## 1.6 Test Execution
+### 1.6 Test Execution
 
-## 1.7 Test Completion
+### 1.7 Test Completion
 
 
