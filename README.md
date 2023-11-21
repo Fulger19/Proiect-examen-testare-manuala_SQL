@@ -6,9 +6,9 @@ Under test: a database for the students in the 8th grade
 
 Tools used: MySQL Workbench
 
-**Functional specifications**
+## Functional specifications
 
-**Testing section**
+## Testing section
 
 ### 1.1 Test Planning
 
