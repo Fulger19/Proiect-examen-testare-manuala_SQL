@@ -42,7 +42,7 @@ I added data in the first table, with personal information about children.
 
 ### 1.2.2 Update data in a table
 
-I updated the second table with the situation of the students (pass or failed)
+I updated the second table with the situation of the students (pass or failed) using the AND and OR operators.
 
 ![image](https://github.com/Fulger19/Proiect-examen-testare-manuala_SQL/assets/135150028/ba303ae5-2761-403e-acc8-353d155a5d87)
 
