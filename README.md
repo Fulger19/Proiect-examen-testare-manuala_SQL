@@ -42,15 +42,23 @@ I added data in the first table, with personal information about children.
 
 ### 1.2.2 Update data in a table
 
+
+### 1.3 DQL instructions (simple select simplu, select with filters, select using the AND, NOT, OR, LIKE operators, agregated functions)
+
+### 1.3.1 
+
+### 1.3.2 AND and OR operators
+
 I updated the second table with the situation of the students (pass or failed) using the AND and OR operators.
 
 ![image](https://github.com/Fulger19/Proiect-examen-testare-manuala_SQL/assets/135150028/ba303ae5-2761-403e-acc8-353d155a5d87)
 
 ![image](https://github.com/Fulger19/Proiect-examen-testare-manuala_SQL/assets/135150028/40d8a61e-29b5-4adb-8f43-66288482e0d8)
 
+When using the AND operator, the table only returns the student with both grades under 5. 
+
+![image](https://github.com/Fulger19/Proiect-examen-testare-manuala_SQL/assets/135150028/718d7242-78c4-4d80-afff-18f97906a6f5)
+
+When using the OR opertor, the table returns all the students that have at least one grade under 5. A student is considered passed if they have both grades equal or more then 5. 
+
 ![image](https://github.com/Fulger19/Proiect-examen-testare-manuala_SQL/assets/135150028/429f8131-b67a-47ac-8c13-82afea9fb068)
-
-
-
-
-### 1.3 DQL instructions (select simplu, select cu filtre, select cu operatorii AND, NOT, OR, LIKE, funcții agregate)
