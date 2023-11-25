@@ -11,14 +11,17 @@ Tools used: MySQL Workbench
 ### 1.1 DDL instructions (create, alter, delete, drop)
 
 ### 1.1.1 Create and use database (first step)
+
 ![image](https://github.com/Fulger19/Proiect-examen-testare-manuala_SQL/assets/135150028/7e09fb25-3b62-4be3-acce-139ae0b86010)
 
 ### 1.1.2 Create tables
 
 First, I created a table with the children in a specific grade.
+
 ![image](https://github.com/Fulger19/Proiect-examen-testare-manuala_SQL/assets/135150028/a593db9b-a723-4fb8-a86c-0f84df5ca199)
 
 Then, I created a second table with the grades of the children for two subjects.
+
 ![image](https://github.com/Fulger19/Proiect-examen-testare-manuala_SQL/assets/135150028/099de63f-dd4a-4a25-8b08-f073496765de)
 
 ### 1.1.3 Alter table
@@ -48,8 +51,6 @@ I added data in the first table, with personal information about children.
 ### 1.3.1 Selecting
 
 ![image](https://github.com/Fulger19/Proiect-examen-testare-manuala_SQL/assets/135150028/51142a5c-93fc-449c-a19f-6035b609ce7f)
-
-![image](https://github.com/Fulger19/Proiect-examen-testare-manuala_SQL/assets/135150028/c6414986-13cd-4e7c-8d40-72facc3a1b4b)
 
 ![image](https://github.com/Fulger19/Proiect-examen-testare-manuala_SQL/assets/135150028/b129d8a8-8ce8-4dff-857d-c93c4c061434)
 
