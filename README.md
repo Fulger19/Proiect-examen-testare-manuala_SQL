@@ -50,7 +50,7 @@ I added data in the first table, with personal information about children.
 
 ### 1.3.1 Selecting
 
-![image](https://github.com/Fulger19/Proiect-examen-testare-manuala_SQL/assets/135150028/51142a5c-93fc-449c-a19f-6035b609ce7f)
+![image](https://github.com/Fulger19/Proiect-examen-testare-manuala_SQL/assets/135150028/a3bc3aba-8077-4fa5-abb0-4400ba8ddc12)
 
 ![image](https://github.com/Fulger19/Proiect-examen-testare-manuala_SQL/assets/135150028/b129d8a8-8ce8-4dff-857d-c93c4c061434)
 
