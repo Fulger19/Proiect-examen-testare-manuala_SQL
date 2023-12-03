@@ -53,6 +53,15 @@ I added data in the first table, with personal information about children.
 
 ![image](https://github.com/Fulger19/Proiect-examen-testare-manuala_SQL/assets/135150028/3c1623a2-37ae-4cfc-aac1-e43ff4c63fec)
 
+I also populated the schools and employees tables.
+
+![image](https://github.com/Fulger19/Proiect-examen-testare-manuala_SQL/assets/135150028/4063db9a-5c95-408b-a124-2fa9abd49978)
+
+For the employees table I used two types of inserting information, as shown below.
+
+![image](https://github.com/Fulger19/Proiect-examen-testare-manuala_SQL/assets/135150028/0b1d8a98-dfb4-4210-a5ae-6547676e2d33)
+
+
 ### 1.2.2 Update data in a table
 
 
