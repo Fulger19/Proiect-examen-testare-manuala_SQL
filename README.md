@@ -24,6 +24,16 @@ Then, I created a second table with the grades of the children for two subjects.
 
 ![image](https://github.com/Fulger19/Proiect-examen-testare-manuala_SQL/assets/135150028/099de63f-dd4a-4a25-8b08-f073496765de)
 
+Another table created was with employees (teachers, director, cleaning personnel)
+
+![image](https://github.com/Fulger19/Proiect-examen-testare-manuala_SQL/assets/135150028/01c4422f-d0e1-4f10-b664-8da6788a0ada)
+
+And then a table with schools, where the column id_director had a foreign key referencing the employee table and the id_employee column
+
+![image](https://github.com/Fulger19/Proiect-examen-testare-manuala_SQL/assets/135150028/53dfc86b-091f-446d-80a5-352229d495db)
+
+
+
 ### 1.1.3 Alter table
 
 I altered the second table, adding a foreign key to connect it with the first table
