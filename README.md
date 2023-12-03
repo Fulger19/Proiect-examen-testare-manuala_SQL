@@ -82,6 +82,9 @@ I used the update data for the table note8C to add the "pass/failed" inputs for 
 
 ![image](https://github.com/Fulger19/Proiect-examen-testare-manuala_SQL/assets/135150028/ede906d3-44b9-4fdd-b8c3-8429f8731949)
 
+![image](https://github.com/Fulger19/Proiect-examen-testare-manuala_SQL/assets/135150028/95610725-4c5e-4fdb-b712-43d81257e836)
+
+
 
 ### 1.3 DQL instructions (simple select, select with filters, select using the AND, NOT, OR, LIKE operators, agregated functions)
 
