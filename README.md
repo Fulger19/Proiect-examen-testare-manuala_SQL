@@ -42,6 +42,20 @@ I altered the second table, adding a foreign key to connect it with the first ta
 
 ![image](https://github.com/Fulger19/Proiect-examen-testare-manuala_SQL/assets/135150028/37d81a48-6ba1-44b9-9a8b-97ea28f20605)
 
+I also altered the table subjects, renaming some columns.
+
+![image](https://github.com/Fulger19/Proiect-examen-testare-manuala_SQL/assets/135150028/bf18a794-a08a-48e8-867c-3fe9709ec23f)
+
+![image](https://github.com/Fulger19/Proiect-examen-testare-manuala_SQL/assets/135150028/f83740b7-7f4a-4f5b-bccd-5251e5ad3eb9)
+
+### 1.1.4 Drop table
+
+I used the drop table function for the schools table.
+
+![image](https://github.com/Fulger19/Proiect-examen-testare-manuala_SQL/assets/135150028/8441110d-54a8-4c9d-a78e-0b2b8a8bcf92)
+
+![image](https://github.com/Fulger19/Proiect-examen-testare-manuala_SQL/assets/135150028/487ae394-7485-426d-844a-f9b001df0174)
+
 
 ### 1.2 DML instructions (insert, update, delete)
 
@@ -63,6 +77,10 @@ For the employees table I used two types of inserting information, as shown belo
 
 
 ### 1.2.2 Update data in a table
+
+I used the update data for the table note8C to add the "pass/failed" inputs for each student.
+
+![image](https://github.com/Fulger19/Proiect-examen-testare-manuala_SQL/assets/135150028/ede906d3-44b9-4fdd-b8c3-8429f8731949)
 
 
 ### 1.3 DQL instructions (simple select, select with filters, select using the AND, NOT, OR, LIKE operators, agregated functions)
