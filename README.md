@@ -20,7 +20,7 @@ First, I created a table with the children in a specific grade.
 
 ![image](https://github.com/Fulger19/Proiect-examen-testare-manuala_SQL/assets/135150028/a593db9b-a723-4fb8-a86c-0f84df5ca199)
 
-Then, I created a second table with the grades of the children for two subjects.
+Then, I created a second table with the grades of the children for two subjects (mathematics and romanian language).
 
 ![image](https://github.com/Fulger19/Proiect-examen-testare-manuala_SQL/assets/135150028/099de63f-dd4a-4a25-8b08-f073496765de)
 
@@ -32,6 +32,15 @@ And then a table with schools, where the column id_director had a foreign key re
 
 ![image](https://github.com/Fulger19/Proiect-examen-testare-manuala_SQL/assets/135150028/53dfc86b-091f-446d-80a5-352229d495db)
 
+I also created two tables for specific subjects (mathematics and french)
+
+For mathematics I added 3 grades for each child, using also the child_id.
+
+![image](https://github.com/Fulger19/Proiect-examen-testare-manuala_SQL/assets/135150028/72afa968-0f9e-49e1-9b91-1fcbbb86d23f)
+
+For french I add 3 grades as 3 separate columns. 
+
+![image](https://github.com/Fulger19/Proiect-examen-testare-manuala_SQL/assets/135150028/5dfdb1d9-9b33-400e-85eb-2075474c2337)
 
 
 ### 1.1.3 Alter table
@@ -47,6 +56,11 @@ I also altered the table subjects, renaming some columns.
 ![image](https://github.com/Fulger19/Proiect-examen-testare-manuala_SQL/assets/135150028/bf18a794-a08a-48e8-867c-3fe9709ec23f)
 
 ![image](https://github.com/Fulger19/Proiect-examen-testare-manuala_SQL/assets/135150028/f83740b7-7f4a-4f5b-bccd-5251e5ad3eb9)
+
+I altered the table for the french grades to add a column for the average
+
+![image](https://github.com/Fulger19/Proiect-examen-testare-manuala_SQL/assets/135150028/8135a991-aa74-4532-a1b2-f333c388e303)
+
 
 ### 1.1.4 Drop table
 
@@ -84,6 +98,9 @@ I used the update data for the table note8C to add the "pass/failed" inputs for 
 
 ![image](https://github.com/Fulger19/Proiect-examen-testare-manuala_SQL/assets/135150028/95610725-4c5e-4fdb-b712-43d81257e836)
 
+I updated the french_grades table to include the average of the 3 grades and I also altered the datatype to decimals to reflect the correct average. 
+
+![image](https://github.com/Fulger19/Proiect-examen-testare-manuala_SQL/assets/135150028/fba47c52-ed72-4c1d-ad90-79b9c70d4bab)
 
 
 ### 1.3 DQL instructions (simple select, select with filters, select using the AND, NOT, OR, LIKE operators, agregated functions)
